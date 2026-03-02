@@ -7,6 +7,8 @@ Este repositorio contiene los documentos legales para la aplicación Habit Track
 - `index.html`: Página principal.
 - `privacy-policy.html`: Política de privacidad.
 - `terms-conditions.html`: Términos y condiciones.
+- `account-deletion.html`: Información sobre eliminación de cuentas y retención de datos.
+
 
 ## Uso
 
